@@ -29,3 +29,4 @@ console.log(typeof null) // The typeof operator returns "object" for null, which
 console.log(typeof undefined) // The typeof operator returns "undefined" for undefined.
 
 
+
